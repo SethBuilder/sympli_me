@@ -1,0 +1,9 @@
+settings.py
+*.pyc
+db.sqlite3
+manage.py
+.env
+env/
+.git
+.idea
+
